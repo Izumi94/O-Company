@@ -1,0 +1,34 @@
+.logistic {
+    background: url(../../images/logistic-bg.png);
+    height: 620px;
+}
+
+.logistic__title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.logistic__description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.logistic__frame {
+    top: 150px;
+    width: 920px;
+    height: 245px;
+    border: 1px solid #c8a35f;
+    box-sizing: border-box;
+}
+

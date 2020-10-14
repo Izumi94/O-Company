@@ -1,9 +1,67 @@
+.header {
+    align-items: center;
+}
+
 .header__row1 {
-    background-color: #C8A35F;
+    background-color: #c8a35f;
     height: 45px;
+    justify-content: space-between;
+}
+
+.header__ru,
+.header__en,
+.header__fr {
+    margin-left: 10px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #ffffff;
+    opacity: 0.5; ;
+    cursor: pointer;
+}
+
+.header__ru,
+.header__en,
+.header__fr::hover {
+    opacity: 0;
+    
 }
 
 .header__row2 {
-    background-color: #2F343A;
-    height: 70px;
+    background-color: #2f343a;
+    height: 100px;
+    justify-content: space-between;
+}
+
+.header__logo {
+}
+
+.our__offices {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    color: #ffffff;
+}
+
+.nav__offices {
+    margin-left: 35px;
+    padding-left: 35px;
+    border-left: 2px solid white;
+}
+
+.nav__item {
+    margin: 15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #ffffff;
 }

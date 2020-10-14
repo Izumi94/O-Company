@@ -1,0 +1,21 @@
+.container {
+    max-width: 1110px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex {
+    display: flex;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.align__center {
+    align-items: center;
+}
