@@ -3,6 +3,12 @@
     height: 620px;
 }
 
+.logistic__container {
+    max-width: 920px;
+    margin: auto;
+    display: flex;
+}
+
 .logistic__title {
     font-family: Roboto;
     font-style: normal;

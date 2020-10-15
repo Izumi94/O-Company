@@ -1,6 +1,7 @@
 .container {
     max-width: 1110px;
     margin: auto;
+    display: flex;
 }
 
 .row {
