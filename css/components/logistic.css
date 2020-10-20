@@ -21,6 +21,7 @@
 }
 
 .logistic__description {
+    margin-top: -30px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -42,3 +43,7 @@
     padding-top: 155px;
 }
 
+.logistic__mouse {
+    margin-top: 140px;
+    margin-left: 445px;
+}
