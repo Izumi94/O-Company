@@ -55,6 +55,7 @@
 }
 
 .header__logo {
+    cursor: pointer;
 }
 
 .our__offices {
@@ -67,6 +68,7 @@
     line-height: 16px;
     letter-spacing: 0.05em;
     color: #ffffff;
+    cursor: pointer;
 }
 
 .nav__offices {
@@ -89,4 +91,5 @@
     letter-spacing: 0.05em;
     text-transform: uppercase;
     color: #ffffff;
+    cursor: pointer;
 }
