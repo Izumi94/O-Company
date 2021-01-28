@@ -93,3 +93,7 @@
     color: #ffffff;
     cursor: pointer;
 }
+
+.nav__item:hover {
+    color: #c8a35f;
+}
